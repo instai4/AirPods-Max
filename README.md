@@ -1,6 +1,6 @@
 # 🎧 Apple AirPods Max Interactive Showcase
 
-A premium, interactive web experience designed to showcase Apple's AirPods Max. Built with native web technologies, this project focuses heavily on **"scrollytelling,"** fluid typography animations, and a seamless glassmorphic Apple aesthetic to create a truly magical user experience
+A premium, interactive web experience designed to showcase Apple's AirPods Max. Built with native web technologies, this project focuses heavily on **"scrollytelling,"** fluid typography animations, and a seamless glassmorphic Apple aesthetic to create a truly magical user experience.
 
 <div align="center">
   <img src="./Images/green.png" alt="AirPods Max Green" width="200" />
