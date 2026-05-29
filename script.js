@@ -4,7 +4,7 @@ const slider = document.querySelector('.slider-images');
 const images = Array.from(slider.children);
 
 const productData = [
-    { title: "Apple AirPods Max - Green", desc: "Experience high-fidelity audio with the Green AirPods Max. Features Active Noise Cancelling, Spatial Audio, and a stunning retro-modern design.", price: "$549.99" },
+    { title: "Apple AirPods Max - Green", desc: "Experience high-fidelity audio with the Green AirPods Max. Features Active Noise Cancelling, Spatial Audio and a stunning retro-modern design.", price: "$549.99" },
     { title: "Apple AirPods Max - Sky Blue", desc: "The Sky Blue AirPods Max offer unparalleled sound quality with Transparency Mode, making it easy to hear your surroundings without removing them.", price: "$559.99" },
     { title: "Apple AirPods Max - Pink", desc: "Make a statement with the vibrant Pink AirPods Max. Custom acoustic design meets advanced software for a breakthrough listening experience.", price: "$569.99" },
     { title: "Apple AirPods Max - Silver", desc: "Sleek, elegant, and timeless. The Silver AirPods Max feature a breathable knit mesh canopy and memory foam ear cushions for an exceptional fit.", price: "$579.99" },
